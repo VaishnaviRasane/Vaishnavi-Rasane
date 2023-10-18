@@ -8,8 +8,9 @@ I am a Conputer Science Grad Student at Grand Valley State university and I will
 * Cooking
 * Yoga 
 * Playing Badminton
+
 ## Technical Background: 
-   I like Python programming language, DBMS and cloud technologies. I have worked on variety of project throughout my academic and professional journey. Few of my projects are as listed below:
+I like Python programming language, DBMS and cloud technologies. I have worked on variety of project throughout my academic and professional journey. Few of my projects are as listed below:
    1. Sign language Recognition System
    2. ETL pipeline for API Data to Database
    3. Employee Management System
