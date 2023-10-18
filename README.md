@@ -1,6 +1,6 @@
 # Welcome To My Page
 ## **Vaishnavi Rasane**
-I am a Conputer Science Grad Student at Grand Valley State university and I will be graduating in April 2024. I am actively looking for a Full Time opportunity upon my graduation.
+I am a Computer Science Graduate Student at Grand Valley State university and I will be graduating in April 2024. I am actively looking for a Full Time opportunity upon my graduation.
   
 ## Personal Interest
 * Travelling
