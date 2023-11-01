@@ -1,6 +1,6 @@
 # Welcome To My Page
 ## **Vaishnavi Rasane**
-I am a Computer Science Graduate Student at Grand Valley State university and I will be graduating in April 2024. I am actively looking for a Full Time opportunity upon my graduation.
+I am aspiring Computer Science graduate student, Vice-President of the Graduate Student Association at Grand Valley State University, and a proficient programming and database enthusiast with over two years of practical experience. Pursuing a Master of Science in Applied Computer Science, set to graduate in May 2024, I bring a strong foundation in data science tools, databases, and AWS services. I'm actively seeking full-time opportunities upon graduation, eager to leverage my leadership skills and technical expertise to drive innovation and success within your organization.
   
 ## Personal Interest
 * Travelling
